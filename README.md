@@ -92,12 +92,6 @@ While dragging, a dashed overlay plus a hint card show what is about to happen. 
 
 When a loaded folder **has sub-folders**, a **Your Playlists** card appears between the tools and the track list, and every folder is drawn exactly like a Spotify playlist: a rounded gradient cover, the playlist name and a `Playlist • n songs` subtitle.
 
-| Row | Result |
-|---|---|
-| **All songs — Playlist • 196 songs** | Every song of the folder and its sub-folders (green cover, like Liked Songs) |
-| **del — Playlist • 111 songs** | **Only** the songs of that sub-folder (its whole tree), never the parent folder's songs |
-| **gang — Playlist • 51 songs** | Only the songs of `gang` |
-
 * Each cover comes from a stable Spotify brand gradient, derived from the folder name.
 * The selected playlist gets a **green name**, like the playlist currently playing in Spotify.
 * The number of songs is shown next to every folder.
